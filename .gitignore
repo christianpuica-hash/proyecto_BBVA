@@ -1,0 +1,10 @@
+# Archivos de NetBeans y compilación
+build/
+dist/
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Clases de Java
+*.class
